@@ -6,3 +6,7 @@
 -Gallery Page 
 -Registration Page 
 -Sponsors and Partners Page
+1640706972 พุทธาศักดิ์ ธิรศักดิ์
+-Activity 
+-FAQ
+-Contact
