@@ -10,3 +10,6 @@
 -Activity 
 -FAQ
 -Contact
+1640704977 nakarin sritakorn
+-login
+-register
